@@ -13,6 +13,10 @@
 **
 **	Changes
 **
+**		2015-10-24
+**			removed date from help message
+**		Conor Stefanini, 24 October 2015
+**
 **		2015-05-25
 **			cleaned up a little bit
 **			got everything ready for github
@@ -71,7 +75,7 @@ int help()
 		"   sinewave -c 'o' -i 'm' -o ' '\n"
 		"  Use keyboard interrupts to quit:\n"
 		"   Ctrl-C\n"
-		"  Conor Stefanini, 7 February 2015\n"
+		"  Conor Stefanini\n"
 	);
 	return EXIT_SUCCESS;
 }
