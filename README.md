@@ -6,8 +6,7 @@ A terminal screensaver that plots a sine wave
   USAGE:
   sinewave [OPTIONS]
   Where [OPTIONS] include:
-   -w   width of terminal (default 80)
-
+   -w   width of terminal (default 80)\n
    -a   angle (in degrees) to start wave from (default 0)
    -s   step, amount to increase angle by each step (default 5)
    -t   time delay in milliseconds (default 30)
